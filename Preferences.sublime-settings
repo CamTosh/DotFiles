@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Asphalt-monochrome.sublime-theme"
+}
