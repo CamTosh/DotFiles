@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Advanced CSV",
+		"AutoFileName",
+		"Blender Development",
+		"DevDocs",
+		"Edit Preferences",
+		"EditorConfigSnippets",
+		"FullScreenStatus",
+		"HexViewer",
+		"HTMLBeautify",
+		"Increment Selection",
+		"LoremIpsum",
+		"Markdown Preview",
+		"More Layouts",
+		"Package Control",
+		"Pony Language",
+		"Pretty JSON",
+		"Python Imports Sorter",
+		"Status Bar Time",
+		"SublimeAStyleFormatter",
+		"SublimeLinter-json",
+		"Swift",
+		"SyncedSideBar",
+		"Theme - Afterglow",
+		"Theme - Asphalt",
+		"VIM Navigation",
+		"WakaTime"
+	]
+}
